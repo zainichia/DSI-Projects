@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Property business is a high value and productive business; and for most people, it will be the biggest financial decision of their lives. In this project we aim to create and iteratively refine a regression model to predict the price of a house based on its features. 
+Property business is a high value and productive business; and for most people, it will be the biggest financial decision of their lives. In this project we aim to create and iteratively refine a regression model to predict the price of a house based on its features.
 
 Getting a reliable and accurate prediction of the sale price of a house is extremely useful for both sellers and buyers, as it gives them a benchmark of how much a certain property should cost, given the features it has. This can help to prevent over or under selling, and can help both prospective owners and sellers reach their goals more effectively.
 
@@ -10,7 +10,7 @@ We also hope to better understand which features of a property will potentially 
 
 ## Executive Summary
 
-This project is carried out in   main steps:
+This project is carried out in 5 main steps:
 
 **1. Data Cleaning**
 
